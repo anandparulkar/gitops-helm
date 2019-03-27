@@ -2,7 +2,7 @@ apiVersion: v1
 appVersion: "0.4.3"
 description: Podinfo Helm chart for Kubernetes - Anand
 name: podinfo
-version: 0.2.4
+version: 0.2.5
 home: https://github.com/anandparulkar/k8s-podinfo
 sources:
 - https://github.com/anandparulkar/k8s-podinfo
