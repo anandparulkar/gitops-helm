@@ -29,7 +29,7 @@ spec:
             - ./podinfo
             - -port={{ .Values.service.containerPort }}
             {{- if .Values.logLevel }}
-            - -debug=true
+            - -debug=false
             {{- end }}
           env:
           - name: backend_url
