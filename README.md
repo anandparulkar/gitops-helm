@@ -7,7 +7,7 @@
 GitOps is a way to do Continuous Delivery, it works by using Git as a source of truth for declarative infrastructure and workloads. 
 For Kubernetes this means using `git push` instead of `kubectl create/apply` or `helm install/upgrade`.
 
-In a traditional CICD pipeline, CD is an implementation extension powered by the 
+In a traditional CICD pipeline, CD is an implementation extension powered by  
 continuous integration tooling to promote build artifacts to production. 
 In the GitOps pipeline model, any change to production must be committed in source control 
 (preferable via a pull request) prior to being applied on the cluster. 
