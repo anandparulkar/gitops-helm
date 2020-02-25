@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/stefanprodan/gitops-helm.svg?branch=master)](https://travis-ci.org/stefanprodan/gitops-helm)
 
-**What is GitOps?****
+****What is GitOps?****
 
 GitOps is a way to do Continuous Delivery, it works by using Git as a source of truth for declarative infrastructure and workloads
 
